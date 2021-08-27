@@ -6,7 +6,7 @@
     "start": "npm run start:dev",
     "start:dev": "vue-cli-service serve --mode development",
     "start:prod": "vue-cli-service serve --mode production",
-    "serve": "vue-cli-service serve",
+    "serve": "vue-cli-service serve --mode azure",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
