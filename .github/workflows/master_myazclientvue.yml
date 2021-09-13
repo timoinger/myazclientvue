@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'myazclientvue'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f0251a2da62d40449be49d6f9ce82eed }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bd8f251a69af456697a46ae713077c98 }}
         package: .
