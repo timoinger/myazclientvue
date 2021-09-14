@@ -13,7 +13,8 @@
   import PersonForm from './components/PersonForm.vue'
   import PersonList from './components/PersonList.vue'
 
-  const URL = process.env.VUE_APP_BACKEND_URL || 'set VUE_APP_BACKEND_URL in .env files!';
+//  const URL = process.env.VUE_APP_BACKEND_URL || 'set VUE_APP_BACKEND_URL in .env files!';
+  const URL = 'https://myazserverspring.azurewebsites.net'
   console.log('VUE_APP_BACKEND_URL: ', URL);
 
   export default {
