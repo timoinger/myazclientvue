@@ -1,6 +1,6 @@
 # myazclientvue
 
-## Project setup
+## Project setup myazclientvue
 ```
 npm install
 ```
